@@ -1,0 +1,21 @@
+body {
+  background-color: #3498db;
+  padding-top:10%;
+}
+
+.text-white {
+  color: white;
+}
+
+textarea {
+  resize: none;
+  height:20%;
+}
+
+.row {
+  margin-bottom: 5%;
+}
+
+a:hover, a:visited, a {
+  color: white;
+}
